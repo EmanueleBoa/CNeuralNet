@@ -2,7 +2,7 @@
 	net.h:
 		a C module to implement fully-connected feed-forward Neural Networks
 
- 		@author: Emanuele Boattini 
+ 	@author: Emanuele Boattini 
         @contact: emanuele.boattini@gmail.com
 */
 
